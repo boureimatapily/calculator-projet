@@ -1,0 +1,33 @@
+.btn-touch0{
+    color: black;
+    background-color: rgb(218,218,218);
+    border-color: black;
+    height: 100px;
+    width: 600px;
+    box-shadow: 20px;
+}
+.btn-size{
+    color: black;
+    background-color: rgb(218,218,218);
+    border-color: black;
+    height: 100px;
+    width: 300px;
+    box-shadow: 20px;
+}
+.btn-size-color{
+    color: white;
+    background-color: rgb(255,128,0);
+    border-color: black;
+    height: 100px;
+    width: 300px;
+    box-shadow: 20px;
+    text-decoration: bold;
+}
+.collun1{
+    color: white;
+    background-color: rgb(140,140,140);
+    border-color: black;
+    height: 100px;
+    width: 1176px;
+    box-shadow: 20px;
+}
